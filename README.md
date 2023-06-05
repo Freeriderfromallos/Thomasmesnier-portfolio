@@ -1,5 +1,1 @@
 # thomasmesnier-portfolio
-git init
-
-
- 
